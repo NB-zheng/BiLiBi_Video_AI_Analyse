@@ -1,0 +1,6 @@
+faster-whisper==1.2.1
+av<19
+requests==2.34.2
+python-dotenv==1.2.4
+markdown==3.11.1
+PyMuPDF==1.24.14
